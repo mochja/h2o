@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
   }
 
   uintmax_t num = strtoumax(argv[1], NULL, 10);
-  if ((num == UINTMAX_MAX && errno == ERANGE) || num == 0) {
+  if ( (num == UINTMAX_MAX && errno == ERANGE) || num == 0 ) {
     fprintf(stderr, "Wrong B value. Valid values are > 0.\n");
     return ! shutdown(atom) || 1;
   }
