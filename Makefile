@@ -1,7 +1,7 @@
 C=gcc
 CFLAGS=-std=gnu99 -c -Wall
 LDFLAGS=-pthread
-SOURCES=main.c utils.c
+SOURCES=main.c atom.c
 OBJECTS=$(SOURCES:.c=.o)
 EXECUTABLE=h2o
  # -Wextra -Werror -pedantic
