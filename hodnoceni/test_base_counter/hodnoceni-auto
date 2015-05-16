@@ -1,0 +1,3 @@
+= base_* : zakladni testy
+2:ok:test_base_counter
+1:ok:test_base_counter: navratovy kod pri korektnim prubehu je 0

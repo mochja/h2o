@@ -1,0 +1,375 @@
+1	: O 1	: started
+2	: H 1	: started
+3	: O 2	: started
+4	: O 7	: started
+5	: H 6	: started
+6	: O 5	: started
+7	: O 4	: started
+8	: H 3	: started
+9	: H 13	: started
+10	: O 6	: started
+11	: O 3	: started
+12	: H 5	: started
+13	: H 18	: started
+14	: H 21	: started
+15	: H 2	: started
+16	: H 7	: started
+17	: O 1	: waiting
+18	: O 10	: started
+19	: H 31	: started
+20	: O 11	: started
+21	: H 34	: started
+22	: H 36	: started
+23	: H 38	: started
+24	: H 10	: started
+25	: O 14	: started
+26	: H 11	: started
+27	: O 15	: started
+28	: O 16	: started
+29	: H 12	: started
+30	: O 17	: started
+31	: H 4	: started
+32	: O 18	: started
+33	: O 19	: started
+34	: H 14	: started
+35	: O 20	: started
+36	: H 15	: started
+37	: O 21	: started
+38	: O 22	: started
+39	: H 16	: started
+40	: O 23	: started
+41	: H 17	: started
+42	: O 24	: started
+43	: O 8	: started
+44	: O 25	: started
+45	: H 20	: started
+46	: H 19	: started
+47	: O 9	: started
+48	: H 22	: started
+49	: H 23	: started
+50	: H 24	: started
+51	: H 25	: started
+52	: H 26	: started
+53	: H 27	: started
+54	: H 28	: started
+55	: H 29	: started
+56	: H 30	: started
+57	: H 8	: started
+58	: H 32	: started
+59	: H 33	: started
+60	: O 12	: started
+61	: H 35	: started
+62	: H 1	: waiting
+63	: H 9	: started
+64	: H 37	: started
+65	: O 13	: started
+66	: H 39	: started
+67	: H 40	: started
+68	: H 41	: started
+69	: H 42	: started
+70	: H 43	: started
+71	: H 44	: started
+72	: H 45	: started
+73	: H 46	: started
+74	: H 47	: started
+75	: H 48	: started
+76	: H 49	: started
+77	: H 50	: started
+78	: O 2	: waiting
+79	: O 7	: waiting
+80	: H 6	: ready
+81	: H 1	: begin bonding
+82	: O 1	: begin bonding
+83	: H 6	: begin bonding
+84	: H 1	: bonded
+85	: H 6	: bonded
+86	: O 1	: bonded
+87	: O 5	: waiting
+88	: O 4	: waiting
+89	: H 3	: waiting
+90	: H 13	: ready
+91	: H 3	: begin bonding
+92	: O 2	: begin bonding
+93	: H 13	: begin bonding
+94	: H 3	: bonded
+95	: O 2	: bonded
+96	: H 13	: bonded
+97	: O 6	: waiting
+98	: O 3	: waiting
+99	: H 5	: waiting
+100	: H 18	: ready
+101	: H 5	: begin bonding
+102	: O 7	: begin bonding
+103	: H 18	: begin bonding
+104	: H 5	: bonded
+105	: O 7	: bonded
+106	: H 18	: bonded
+107	: H 21	: waiting
+108	: H 2	: ready
+109	: H 21	: begin bonding
+110	: O 5	: begin bonding
+111	: H 2	: begin bonding
+112	: H 21	: bonded
+113	: H 2	: bonded
+114	: O 5	: bonded
+115	: H 7	: waiting
+116	: O 10	: waiting
+117	: H 31	: ready
+118	: H 7	: begin bonding
+119	: O 4	: begin bonding
+120	: H 31	: begin bonding
+121	: H 7	: bonded
+122	: H 31	: bonded
+123	: O 4	: bonded
+124	: O 11	: waiting
+125	: H 34	: waiting
+126	: H 36	: ready
+127	: H 34	: begin bonding
+128	: O 6	: begin bonding
+129	: H 36	: begin bonding
+130	: H 34	: bonded
+131	: O 6	: bonded
+132	: H 36	: bonded
+133	: H 38	: waiting
+134	: H 10	: ready
+135	: H 38	: begin bonding
+136	: O 3	: begin bonding
+137	: H 10	: begin bonding
+138	: H 38	: bonded
+139	: H 10	: bonded
+140	: O 3	: bonded
+141	: O 14	: waiting
+142	: H 11	: waiting
+143	: O 15	: waiting
+144	: O 16	: waiting
+145	: H 12	: ready
+146	: H 11	: begin bonding
+147	: O 10	: begin bonding
+148	: H 12	: begin bonding
+149	: H 11	: bonded
+150	: H 12	: bonded
+151	: O 10	: bonded
+152	: O 17	: waiting
+153	: H 4	: waiting
+154	: O 18	: waiting
+155	: O 19	: waiting
+156	: H 14	: ready
+157	: H 4	: begin bonding
+158	: O 11	: begin bonding
+159	: H 14	: begin bonding
+160	: H 4	: bonded
+161	: O 11	: bonded
+162	: H 14	: bonded
+163	: O 20	: waiting
+164	: H 15	: waiting
+165	: O 21	: waiting
+166	: O 22	: waiting
+167	: H 16	: ready
+168	: H 15	: begin bonding
+169	: O 14	: begin bonding
+170	: H 16	: begin bonding
+171	: H 15	: bonded
+172	: H 16	: bonded
+173	: O 14	: bonded
+174	: O 23	: waiting
+175	: H 17	: waiting
+176	: O 24	: waiting
+177	: O 8	: waiting
+178	: O 25	: waiting
+179	: H 20	: ready
+180	: H 17	: begin bonding
+181	: O 15	: begin bonding
+182	: H 20	: begin bonding
+183	: H 17	: bonded
+184	: H 20	: bonded
+185	: O 15	: bonded
+186	: H 19	: waiting
+187	: O 9	: waiting
+188	: H 22	: ready
+189	: H 19	: begin bonding
+190	: O 16	: begin bonding
+191	: H 22	: begin bonding
+192	: H 19	: bonded
+193	: H 22	: bonded
+194	: O 16	: bonded
+195	: H 23	: waiting
+196	: H 24	: ready
+197	: H 23	: begin bonding
+198	: O 17	: begin bonding
+199	: H 24	: begin bonding
+200	: H 23	: bonded
+201	: H 24	: bonded
+202	: O 17	: bonded
+203	: H 25	: waiting
+204	: H 26	: ready
+205	: H 25	: begin bonding
+206	: O 18	: begin bonding
+207	: H 26	: begin bonding
+208	: H 25	: bonded
+209	: O 18	: bonded
+210	: H 26	: bonded
+211	: H 27	: waiting
+212	: H 28	: ready
+213	: H 27	: begin bonding
+214	: O 19	: begin bonding
+215	: H 28	: begin bonding
+216	: H 27	: bonded
+217	: O 19	: bonded
+218	: H 28	: bonded
+219	: H 29	: waiting
+220	: H 30	: ready
+221	: H 29	: begin bonding
+222	: O 20	: begin bonding
+223	: H 30	: begin bonding
+224	: H 29	: bonded
+225	: O 20	: bonded
+226	: H 30	: bonded
+227	: H 8	: waiting
+228	: H 32	: ready
+229	: H 8	: begin bonding
+230	: O 21	: begin bonding
+231	: H 32	: begin bonding
+232	: H 8	: bonded
+233	: H 32	: bonded
+234	: O 21	: bonded
+235	: H 33	: waiting
+236	: O 12	: waiting
+237	: H 35	: ready
+238	: H 33	: begin bonding
+239	: O 22	: begin bonding
+240	: H 35	: begin bonding
+241	: H 33	: bonded
+242	: H 35	: bonded
+243	: O 22	: bonded
+244	: H 9	: waiting
+245	: H 37	: ready
+246	: H 9	: begin bonding
+247	: O 23	: begin bonding
+248	: H 37	: begin bonding
+249	: H 9	: bonded
+250	: H 37	: bonded
+251	: O 23	: bonded
+252	: O 13	: waiting
+253	: H 39	: waiting
+254	: H 40	: ready
+255	: H 39	: begin bonding
+256	: O 24	: begin bonding
+257	: H 40	: begin bonding
+258	: H 39	: bonded
+259	: O 24	: bonded
+260	: H 40	: bonded
+261	: H 41	: waiting
+262	: H 42	: ready
+263	: H 41	: begin bonding
+264	: O 8	: begin bonding
+265	: H 42	: begin bonding
+266	: H 41	: bonded
+267	: H 42	: bonded
+268	: O 8	: bonded
+269	: H 43	: waiting
+270	: H 44	: ready
+271	: H 43	: begin bonding
+272	: O 25	: begin bonding
+273	: H 44	: begin bonding
+274	: H 43	: bonded
+275	: H 44	: bonded
+276	: O 25	: bonded
+277	: H 45	: waiting
+278	: H 46	: ready
+279	: H 45	: begin bonding
+280	: O 9	: begin bonding
+281	: H 46	: begin bonding
+282	: H 45	: bonded
+283	: H 46	: bonded
+284	: O 9	: bonded
+285	: H 47	: waiting
+286	: H 48	: ready
+287	: H 47	: begin bonding
+288	: O 12	: begin bonding
+289	: H 48	: begin bonding
+290	: H 47	: bonded
+291	: O 12	: bonded
+292	: H 48	: bonded
+293	: H 49	: waiting
+294	: H 50	: ready
+295	: H 49	: begin bonding
+296	: O 13	: begin bonding
+297	: H 50	: begin bonding
+298	: H 49	: bonded
+299	: O 13	: bonded
+300	: H 50	: bonded
+301	: H 1	: finished
+302	: H 6	: finished
+303	: O 1	: finished
+304	: H 3	: finished
+305	: H 49	: finished
+306	: H 13	: finished
+307	: H 5	: finished
+308	: O 7	: finished
+309	: H 18	: finished
+310	: H 21	: finished
+311	: H 2	: finished
+312	: O 5	: finished
+313	: H 7	: finished
+314	: H 31	: finished
+315	: O 4	: finished
+316	: H 34	: finished
+317	: O 6	: finished
+318	: H 36	: finished
+319	: H 38	: finished
+320	: H 10	: finished
+321	: O 3	: finished
+322	: H 11	: finished
+323	: H 12	: finished
+324	: O 10	: finished
+325	: H 4	: finished
+326	: O 11	: finished
+327	: H 14	: finished
+328	: H 15	: finished
+329	: H 16	: finished
+330	: O 14	: finished
+331	: H 17	: finished
+332	: H 20	: finished
+333	: O 15	: finished
+334	: H 19	: finished
+335	: H 22	: finished
+336	: O 16	: finished
+337	: H 23	: finished
+338	: H 24	: finished
+339	: O 17	: finished
+340	: H 25	: finished
+341	: O 18	: finished
+342	: H 26	: finished
+343	: H 27	: finished
+344	: O 19	: finished
+345	: H 28	: finished
+346	: H 29	: finished
+347	: H 30	: finished
+348	: H 8	: finished
+349	: H 32	: finished
+350	: O 20	: finished
+351	: O 21	: finished
+352	: H 33	: finished
+353	: H 35	: finished
+354	: O 22	: finished
+355	: H 9	: finished
+356	: H 37	: finished
+357	: O 23	: finished
+358	: H 39	: finished
+359	: O 24	: finished
+360	: H 40	: finished
+361	: H 41	: finished
+362	: H 42	: finished
+363	: O 8	: finished
+364	: H 43	: finished
+365	: H 44	: finished
+366	: O 25	: finished
+367	: H 45	: finished
+368	: H 46	: finished
+369	: O 9	: finished
+370	: H 47	: finished
+371	: O 12	: finished
+372	: H 48	: finished
+373	: O 13	: finished
+374	: O 2	: finished
+375	: H 50	: finished

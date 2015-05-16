@@ -1,0 +1,2 @@
+= sleep_* : testy s kratkym uspanim procesu pri kazdem pouziti synchronizacniho prostredku
+2:ok:test_sleep_counter

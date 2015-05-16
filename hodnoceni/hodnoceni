@@ -1,0 +1,34 @@
+15:celkem bodu za projekt
+#-- automaticke hodnoceni -----------------------------
+= make
+:ok:make
+= prepare tests: resources
+= base_* : zakladni testy
+2:ok:test_base_counter
+1:ok:test_base_counter: navratovy kod pri korektnim prubehu je 0
+2:ok:test_base_h: posloupnost H ok
+2:ok:test_base_o: posloupnost O ok
+4:ok:test_base_sync: zakladni posloupnost (sync1): synchronizace ok
+2:ok:test_base_sync: posloupnost start - finished (sync2): synchronizace ok
+= deadlock
+4:ok:test_deadlock: test deadlock OK
+= test spravneho ukonceni pri chybe
+1:ok:test_error_1: osetreni chybneho vstupu (GH=6000)
+0:fail:test_error_2: osetreni selhani systemoveho volani (fork)
+= nosleep_* : testy bez pouziti uspani procesu
+2:ok:test_nosleep_counter
+4:ok:test_nosleep_sync: zakladni posloupnost (sync1): synchronizace ok
+2:ok:test_nosleep_sync: posloupnost start - finished (sync2): synchronizace ok
+= resources
+2:ok: pocet procesu ok (8, mel by byt 8)
+2:ok: pocet volani wait (waitpid) ok
+2:ok: pripojeni ke sdilene pameti a uvolneni je korektni
+# neni volano unmap
+2:ok: nepojmenovane semafory se rusi
+= sleep_* : testy s kratkym uspanim procesu pri kazdem pouziti synchronizacniho prostredku
+2:ok:test_sleep_counter
+4:ok:test_sleep_sync: zakladni posloupnost (sync1): synchronizace ok
+2:ok:test_sleep_sync: posloupnost start - finished (sync2): synchronizace ok
+#------------------------------------------------------
+42:celkove score (max pro hodnoceni 42)
+15:celkem bodu za projekt

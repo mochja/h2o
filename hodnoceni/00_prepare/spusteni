@@ -1,0 +1,1 @@
+ltrace -f -o ltrace.txt ./h2o 2 10 10 5 <stdin >stdout 2>stderr; echo $? >errcode

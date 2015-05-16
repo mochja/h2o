@@ -1,0 +1,1 @@
+./h2o 25 0 0 0 <stdin >stdout 2>stderr; echo $? >errcode

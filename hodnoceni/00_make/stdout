@@ -1,0 +1,3 @@
+cc -std=gnu99 -c -Wall main.c -o main.o
+cc -std=gnu99 -c -Wall atom.c -o atom.o
+cc -pthread main.o atom.o -o h2o
